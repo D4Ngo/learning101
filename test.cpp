@@ -5,7 +5,10 @@ using namespace std;
 void test(){
 	cout<<"test";
 }
-
+void function2()
+{
+	return 0;
+}
 void testFunction()
 {
 	cout<<"Testing";
