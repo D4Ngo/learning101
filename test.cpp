@@ -13,7 +13,10 @@ void testFunction()
 {
 	cout<<"Testing";
 }
-
+void dango2Function()
+{
+	cout<<"Dango2";
+}
 int main()
 {
 	cout<<"Hello World";
