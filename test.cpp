@@ -18,5 +18,7 @@ int main()
 {
 	cout<<"Hello World";
 	test();
+	testFunction();
 	return 0;
 }
+//add comment
